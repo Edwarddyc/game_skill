@@ -1,0 +1,5 @@
+interface:
+  display_name: "Game 3 建筑素材"
+  short_description: "生成并验收 Game 3 俯视像素建筑及多尺寸变体素材"
+  default_prompt: "Use $game3-buildings to create a building sprite matching the Game 3 references."
+

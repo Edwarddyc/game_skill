@@ -1,0 +1,5 @@
+interface:
+  display_name: "Game 3 地形 Tileset"
+  short_description: "生成并验收 Game 3 的 64px 地形、悬崖、水体和过渡瓦片"
+  default_prompt: "Use $game3-terrain-tiles to create a terrain tileset matching the Game 3 references."
+

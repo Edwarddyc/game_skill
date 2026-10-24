@@ -1,0 +1,5 @@
+interface:
+  display_name: "Game 3 地图物件与特效"
+  short_description: "生成并归一化道路、岩石、树木、车辆和天气等地图素材"
+  default_prompt: "Use $game3-map-props-fx to create a map prop or effect matching Game 3."
+
